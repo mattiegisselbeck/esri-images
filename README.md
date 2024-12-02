@@ -8,7 +8,7 @@
 ### Applying Symbology From Layer in ArcGIS Pro
 - Import Enterprise.stylx
   - The .stylx layer is used to 
-- Open and Run the Apply Symbology From Layer Geoprocessing Tool using Item.lyrx to Apply the ArcGIS Dependency Base Symbology (See Image Below)
+- Open and Run the `Apply Symbology From Layer` Geoprocessing Tool using Item.lyrx to Apply the ArcGIS Dependency Base Symbology (See Image Below)
   - The .lyrx file is used to 
 
 ### Item Types in Symbology Layer 
