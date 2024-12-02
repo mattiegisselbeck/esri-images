@@ -1,5 +1,53 @@
-# esri-images
+# Base Style for ArcGIS Dependency Graphs
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <path d="M0 10V7h10.965l-5-5H9.5L16 8.5 9.5 15H5.964l5-5H0z" />
-</svg>
+Service
+* 
+
+## Categories
+- Services
+- Applications
+- Web Maps
+- Documents
+- Forms
+- Packages
+- Pages
+- Templates
+- Databases
+- Scenes
+- Layers
+- Projects
+- Models
+
+## Service
+Feature Service
+Feature Collection
+Map Service
+Service Definition
+Web Map Tile Service (WMTS)
+Web Map Service (WMS)
+Web Feature Service (WFS)
+Scene Service
+Vector Tile Service
+Image Service
+Stream Service
+Geocoding Service
+Network Analysis Service
+Geoprocessing Service
+
+## Application
+Web Mapping Application
+Dashboard
+StoryMap
+Web Experience
+Hub Site Application
+Hub Initiative
+Solution
+Application
+Desktop Application
+Native Application
+Mobile Application
+
+
+## Web Map
+
+## 
