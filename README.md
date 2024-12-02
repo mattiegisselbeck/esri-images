@@ -12,6 +12,8 @@
   - The tool applies the ArcGIS dependency base symbology to the chosen link chart.
   - The .lyrx file is used to display the stored based ArcGIS dependency symbols to your link chart.
 
+*Insert Image Here*
+
 ### Item Types in Symbology Layer 
 - **Service**
   - Feature Service
