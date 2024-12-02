@@ -2,9 +2,8 @@
 
 ## Overview
 ### What are Styles and Symbology Layers?
-- **Styles**: The containers that store symbols, colors, color schemes, label placements, and layout items. They promote consistency and standardization across maps, scenes, and layouts. The style file for this project can be found here with an .stylx file extension.
-- **Symbology Layer**: The layer containing the symbology that will be applied to the chosen link chart layer. LYR and LYRX is a file format created to save and share feature layer definitions. 
-
+- **Styles**: The containers that store symbols, colors, color schemes, label placements, and layout items. They promote consistency and standardization across maps, scenes, and layouts. The style file for this project can be found here with an `.stylx` file extension.
+- **Symbology Layer**: The layer containing the symbology that will be applied to the chosen link chart layer. The symbology layer can be found with an `.lyrx` file extensions.
 ### Applying Symbology From Layer in ArcGIS Pro
 - Import Enterprise.stylx
   - The .stylx layer is used to 
