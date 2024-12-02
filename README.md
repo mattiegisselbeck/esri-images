@@ -1,14 +1,15 @@
 # Base Symbology for ArcGIS Dependecy Link Charts in ArcGIS Knowledge
 
 ## Overview
-### What are Styles and Symbology Layers?
-- **Styles**: The containers that store symbols, colors, color schemes, label placements, and layout items. They promote consistency and standardization across maps, scenes, and layouts. The style file for this project can be found here with an `.stylx` file extension.
-- **Symbology Layer**: The layer containing the symbology that will be applied to the chosen link chart layer. The symbology layer can be found with an `.lyrx` file extensions.
-### Applying Symbology From Layer in ArcGIS Pro
+### What are Style Files and Symbology Layers?
+- A style file stores symbols, colors, color schemes, label placements, and layout items. The style file for this project can be found here with an `.stylx` file extension.
+- A symbology layer contains the symbology that will be applied to the chosen link chart layer. The symbology layer can be found here with an `.lyrx` file extensions.
+  
+### Applying Base Symbology to Link Chart in ArcGIS Pro
 - Import Enterprise.stylx
-  - The .stylx layer is used to 
+  - The .stylx file is used to store the base symbols created initially for others to use and apply to their own knowledge graphs.
 - Open and Run the `Apply Symbology From Layer` Geoprocessing Tool using Item.lyrx to Apply the ArcGIS Dependency Base Symbology (See Image Below)
-  - The .lyrx file is used to 
+  - The .lyrx file is used to display the stored based ArcGIS dependency symbols to your link chart.
 
 ### Item Types in Symbology Layer 
 - **Service**
