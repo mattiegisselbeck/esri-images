@@ -9,7 +9,7 @@
 - **Import Enterprise.stylx into ArcGIS Pro**
   - The .stylx file is used to store the base symbols created initially for others to use and apply to their own knowledge graphs.
 - **Open the `Apply Symbology From Layer` Geoprocessing Tool**
-- **Run the `Apply Symbology From Layer` Geoprocessing Tool using Item.lyrx** (See Image Below)
+- **Run the** `Apply Symbology From Layer` **Geoprocessing Tool using Item.lyrx** (See Image Below)
   - The tool applies the ArcGIS dependency base symbology to the chosen link chart.
   - The .lyrx file is used to display the stored based ArcGIS dependency symbols to your link chart.
 
