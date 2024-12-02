@@ -2,8 +2,8 @@
 
 ## Overview
 ### What are Style Files and Symbology Layers?
-- A style file stores symbols, colors, color schemes, label placements, and layout items. The style file for this project can be found here with an `.stylx` file extension.
-- A symbology layer contains the symbology that will be applied to the chosen link chart layer. The symbology layer can be found here with an `.lyrx` file extensions.
+- A style file stores symbols, colors, color schemes, label placements, and layout items. The style file for this project can be found [here](https://github.com/EsriPS/spire-graph/tree/main/pro) with an `.stylx` file extension.
+- A symbology layer contains the symbology that will be applied to the chosen link chart layer. The symbology layer can be found [here](https://github.com/EsriPS/spire-graph/tree/main/pro) with an `.lyrx` file extensions.
   
 ### Applying Base Symbology to Link Chart in ArcGIS Pro
 - Import Enterprise.stylx
