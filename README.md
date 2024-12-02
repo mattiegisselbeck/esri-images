@@ -3,8 +3,22 @@
 Service
 * 
 
-## Categories
+## Item Types
 - Services
+  - Feature Service
+  - Feature Collection
+  - Map Service
+Service Definition
+Web Map Tile Service (WMTS)
+Web Map Service (WMS)
+Web Feature Service (WFS)
+Scene Service
+Vector Tile Service
+Image Service
+Stream Service
+Geocoding Service
+Network Analysis Service
+Geoprocessing Service
 - Applications
 - Web Maps
 - Documents
