@@ -1,7 +1,6 @@
 # Base Symbology for ArcGIS Dependecy Link Charts in ArcGIS Knowledge
 
-## Overview
-### What are Style Files and Symbology Layers?
+## Style Files and Symbology Layers
 - A style file stores symbols, colors, color schemes, label placements, and layout items. The style file for this project can be found [here](https://github.com/EsriPS/spire-graph/tree/main/pro) with an `.stylx` file extension.
 - A symbology layer contains the symbology that will be applied to the chosen link chart layer. The symbology layer can be found [here](https://github.com/EsriPS/spire-graph/tree/main/pro) with an `.lyrx` file extensions.
   
